@@ -24,7 +24,7 @@
 ### 🧠 About Me
 
 <!-- ✏️ Edit this bio anytime to sound more like you -->
-- 🎓 B.Tech in **Computer Science and Artificial Intelligence** at Kakinada Institute of Engineering and Technology (2024 – 2027), CGPA **7.9**
+- 🎓 B.Tech in **Computer Science and Artificial Intelligence** at Kakinada Institute of Engineering and Technology (2024 – 2027), CGPA **7.5**
 - 📊 Currently working as a **Data Analyst** — skilled in Python, SQL, Power BI, and Excel for turning raw data into actionable business insights
 - 💻 Now expanding into **Full Stack Development**, building projects with React.js, Flask, and SQL alongside my analytics work
 - 🌱 Career goal: to grow **in parallel** as a Data Analyst and Developer — open to roles that blend data-driven thinking with hands-on engineering
