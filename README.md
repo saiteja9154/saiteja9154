@@ -1,4 +1,5 @@
 <!-- ===================== HERO BANNER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Sai Teja Revuri</h1>
 
 <h3 align="center">
@@ -7,13 +8,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+modern+full-stack+web+applications;Creating+clean+and+scalable+REST+APIs;Turning+ideas+into+functional+digital+products;Learning%2C+building%2C+and+improving+every+day+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+modern+full-stack+web+applications;Developing+scalable+REST+APIs;Creating+clean+and+responsive+user+experiences;B.Tech+Computer+Science+%26+AI+Student;Diploma+in+Mechanical+Engineering;Learning%2C+Building%2C+and+Improving+Every+Day+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <a href="https://sai-teja-portfolio-vercel.vercel.app">
+  <a href="https://sai-teja-portfolio-vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
@@ -31,31 +32,42 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiteja9154&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=saiteja9154&style=for-the-badge&color=blueviolet"
+    alt="Profile views"
+  />
+
   <a href="https://github.com/saiteja9154?tab=followers">
-    <img src="https://img.shields.io/github/followers/saiteja9154?style=for-the-badge&color=blue" alt="Followers"/>
+    <img
+      src="https://img.shields.io/github/followers/saiteja9154?style=for-the-badge&color=blue"
+      alt="Followers"
+    />
   </a>
 </p>
 
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
+
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech student specializing in **Computer Science & Artificial Intelligence**
-- 💻 Passionate about **Full-Stack Web Development**
-- ⚛️ Building modern frontend applications with **React, JavaScript, HTML5, CSS3 & Tailwind CSS**
-- 🐍 Building backend services and REST APIs using **Python, FastAPI, Node.js & Express.js**
-- 🔐 Working with **JWT Authentication, Middleware & API integration**
-- 🗄️ Working with **MySQL, MongoDB & PostgreSQL**
-- 🧪 Using **Postman** for API testing and debugging
-- 🐳 Exploring **Docker** for application containerization
-- 🚀 Currently working on real-world projects to strengthen my full-stack development skills
-- 📍 Based in **Kakinada, India**
+* 💻 I'm a **Full-Stack Developer** passionate about building modern web applications and solving real-world problems through technology.
+* 🎓 Pursuing **B.Tech in Computer Science and Artificial Intelligence** at Kakinada Institute of Engineering and Technology.
+* 📊 Current academic performance: **7.78 CGPA / 70.34%**
+* 🔧 Completed **Diploma in Mechanical Engineering** before transitioning into Computer Science through lateral entry.
+* ⚛️ Building frontend applications using **React, JavaScript, HTML5, CSS3 and Tailwind CSS**.
+* ⚙️ Developing backend applications and REST APIs using **Python, FastAPI, Node.js and Express.js**.
+* 🔐 Working with **JWT Authentication, Middleware and API integration**.
+* 🗄️ Working with **MySQL, MongoDB and PostgreSQL**.
+* 🧪 Using **Postman** for API testing and debugging.
+* 🐳 Learning and applying **Docker** for application containerization.
+* 🚀 Interested in building scalable, maintainable and user-focused software applications.
+* 📍 Based in **Kakinada, India**.
 
 ---
 
 <!-- ===================== TECH STACK ===================== -->
+
 ### 🛠️ Technical Skills
 
 #### 🎨 Frontend Development
@@ -101,11 +113,12 @@
 ---
 
 <!-- ===================== PROJECTS ===================== -->
+
 ### 🚀 Featured Projects
 
 #### 🤖 SQL Sense AI
 
-An interactive web application designed to help users understand SQL concepts, database schemas, joins, and queries through an intuitive learning experience.
+An interactive SQL learning application designed to help users understand database concepts, schemas, joins and SQL queries through an intuitive learning experience.
 
 **Tech Stack:** `React` `Python` `FastAPI` `SQL` `REST APIs`
 
@@ -115,9 +128,9 @@ An interactive web application designed to help users understand SQL concepts, d
 
 #### 💼 HireFlow
 
-A full-stack application focused on streamlining the recruitment and hiring workflow through a modern web-based platform.
+A full-stack recruitment and hiring application focused on simplifying the hiring workflow through a modern web-based platform.
 
-**Tech Stack:** `React` `JavaScript` `Backend APIs` `Database`
+**Tech Stack:** `React` `JavaScript` `REST APIs` `Database`
 
 🔗 [View Project](https://github.com/saiteja9154/hireflow)
 
@@ -134,72 +147,111 @@ A digital healthcare management application designed to replace traditional pape
 ---
 
 <!-- ===================== EXPERIENCE ===================== -->
+
 ### 💼 Experience
 
 #### 👨‍💻 Developer Intern — K-Hub
 
-- Working on real-world software development tasks in a collaborative team environment
-- Contributing to frontend and backend development workflows
-- Working with REST APIs, middleware and error handling
-- Testing APIs using Postman
-- Using Git and GitHub for version control and collaboration
-- Improving practical full-stack development and debugging skills
+* Contributing to real-world software development tasks in a collaborative team environment.
+* Working with frontend and backend development workflows.
+* Developing and working with **REST APIs**.
+* Implementing **middleware and error-handling** functionality.
+* Testing APIs using **Postman**.
+* Using **Git and GitHub** for version control and team collaboration.
+* Improving practical skills in debugging, API development and full-stack application development.
 
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saiteja9154&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=saiteja9154&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja9154&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+ height="165"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja9154&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja9154&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja9154&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+
+### 🎓 Education
+
+#### 🎓 Bachelor of Technology — Computer Science & Artificial Intelligence
+
+**Kakinada Institute of Engineering and Technology**
+
+* 2024 – 2027
+* **CGPA: 7.78 / 10**
+* **Percentage: 70.34%**
+* Lateral Entry
+
+#### 🔧 Diploma — Mechanical Engineering
+
+* Completed Diploma in **Mechanical Engineering**
+* Entered B.Tech through **Lateral Entry**
 
 ---
 
 <!-- ===================== CERTIFICATIONS ===================== -->
+
 ### 🏆 Certifications & Achievements
 
-- ☁️ **AWS Certified Cloud Practitioner**
-- 💻 **Developer Internship — K-Hub**
-- 🎓 **Google Data Analytics Certification**
-- 📊 **Data Analytics with Python & Power BI — EduSkills Academy**
-- 🤖 **AI/ML Virtual Internship — Google for Developers & AICTE EduSkills**
+* ☁️ **AWS Certified Cloud Practitioner**
+* 💻 **Developer Internship — K-Hub**
+* 🎓 **Google Data Analytics Certification**
+* 📊 **Data Analytics with Python & Power BI — EduSkills Academy**
+* 🤖 **AI/ML Virtual Internship — Google for Developers & AICTE EduSkills**
 
 ---
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
+
 ### 📚 Currently Learning
 
-- ⚛️ Advanced React & modern frontend development
-- ⚙️ Backend development with FastAPI, Node.js & Express.js
-- 🔐 Authentication, authorization & secure REST APIs
-- 🗄️ Database integration with MySQL, MongoDB & PostgreSQL
-- 🐳 Docker & application containerization
-- 🧩 Data Structures & Algorithms for software development interviews
+* ⚛️ Advanced React and modern frontend development
+* ⚙️ Backend development with FastAPI, Node.js and Express.js
+* 🔐 Authentication, authorization and secure REST APIs
+* 🗄️ Database integration with MySQL, MongoDB and PostgreSQL
+* 🐳 Docker and application containerization
+* 🧩 Data Structures & Algorithms for software development interviews
+* 🏗️ Building scalable and maintainable full-stack applications
 
 ---
 
 <!-- ===================== COLLABORATION ===================== -->
+
 ### 🤝 Open to Collaborate On
 
-- 🚀 Full-stack web applications
-- 🌍 Open-source projects
-- 💻 Developer-focused projects
-- 🧩 Real-world software solutions
-- 🚀 Startup and innovative product ideas
+* 🚀 Full-stack web applications
+* 🌍 Open-source projects
+* 💻 Developer-focused projects
+* 🧩 Real-world software solutions
+* 🚀 Startup and innovative product ideas
 
 ---
 
 <!-- ===================== CONNECT ===================== -->
+
 ### 📫 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/sai-teja-revuri-97b63732a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -208,13 +260,14 @@ A digital healthcare management application designed to replace traditional pape
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://sai-teja-portfolio-vercel.vercel.app">
+  <a href="https://sai-teja-portfolio-vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <a href="tel:+919154122026">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
 </p>
 
 <p align="center">
